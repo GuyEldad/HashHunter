@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="HashHunter.jpg" alt="HashHunter Banner" width="700">
+  <img src="HashHunter.jpg" alt="HashHunter Banner" width="800">
 </p>
 
 # HashHunter
