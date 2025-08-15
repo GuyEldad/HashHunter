@@ -18,6 +18,12 @@ It is built to streamline the investigation process and quickly identify the has
 
 **Note:** Some protected directories (e.g., `C:\Windows\System32`) require administrative privileges to delete files.
 
+## Download
+
+| Platform | Interface | Download |
+|----------|-----------|----------|
+| Windows  | CLI       | [HashHunter.zip](./HashHunter.zip) |
+
 ## Usage
 ```
 HashHunter.exe -MD5    <Hash> -Path <Path>
